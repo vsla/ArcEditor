@@ -48,3 +48,6 @@ og-test
 
 # Worktrees
 .worktrees
+
+# claude
+.claude/settings.local.json
